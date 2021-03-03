@@ -4,7 +4,7 @@ long_description = open('README.md').read()
 
 setup(
     name="py_smartreply",
-    version="0.1.1",
+    version="0.0.1",
     author="Narasimha Prasanna HN",
     author_email="narasimhaprasannahn@gmail.com",
     description="Python bindings for Tensorflow Lite Smart-Reply Runtime.",
