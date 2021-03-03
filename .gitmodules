@@ -1,0 +1,10 @@
+[submodule "dependencies/pybind11"]
+	path = dependencies/pybind11
+	url = https://github.com/pybind/pybind11.git
+	branch = stable
+[submodule "dependencies/tensorflow"]
+	path = dependencies/tensorflow
+	url = https://github.com/tensorflow/tensorflow
+[submodule "dependencies/re2"]
+	path = dependencies/re2
+	url = https://github.com/google/re2.git

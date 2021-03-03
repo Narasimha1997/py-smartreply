@@ -17,7 +17,7 @@ def test_exception_on_unknwon_model():
 def test_exception_on_improper_model():
 
     with pytest.raises(smartreply.ModelLoadFailedException):
-        model = smartreply.SmartReplyRuntime(model_file = "tests/smartreply_samples.tsv")
+        model = smartreply.SmartReplyRuntime(model_file = "tests/fake_model")
 
 def test_load_and_run_prediction():
 
