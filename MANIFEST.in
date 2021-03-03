@@ -1,0 +1,3 @@
+include README.md
+include src/smartreply/model.tflite
+include LICENSE
