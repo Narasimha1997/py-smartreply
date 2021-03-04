@@ -22,6 +22,10 @@ python3 setup.py bdist_wheel
 You can install this package via pip, as follows:
 ```
 pip install py_smartreply
+
+#or 
+
+pip install py-smartreply
 ```
 
 ### Usage
