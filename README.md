@@ -102,7 +102,8 @@ pytest tests/
 ### Future Roadmap:
 1. Build wheels for more python versions (wheels are available for python 3.6 and 3.7 as of now)
 2. Support `manylinux2014`
-3. Many more new features
+3. Support for multiple platorms and architectures. (tested on Linux as of now)
+4. Many more new features
 
 ### Contributing:
 Contributions of any sort are always welcome. You can raise issues, suggest features or make PRs directly, if you find something can be better or need to add any feature that can help others.
